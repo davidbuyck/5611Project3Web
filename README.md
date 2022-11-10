@@ -2,7 +2,7 @@
  
 David Buyck
 
-## [View the code on Github](https://github.com/davidbuyck/5611Project2Code.git)
+## [View the code on Github]([https://github.com/davidbuyck/5611Project2Code.git](https://github.com/davidbuyck/5611Proj3.git))
 
 ### Click on the images to play the YouTube videos!!!
 
@@ -10,46 +10,42 @@ David Buyck
 
 #### Features attempted
 
-- Multiple Ropes (at least 2D)*
-- Cloth Simulation
-- 3D Simulation
-- High-quality Rendering
-- Air Drag for Cloth
+Part 1 uses CCD
+
+- Single-arm IK
+- Multi-arm IK
+- Joint limits
 - User Interaction
-- Realistic Speed
+- 3D Simulation & Rendering
+- Skinned Models
 
 [![Part 2](https://img.youtube.com/vi/h8vavKO2INo/0.jpg)](https://youtu.be/h8vavKO2INo)
 
-### Multiple Ropes (at least 2D)* (time: 0:00-1:30)
+### Single-arm IK (at least 2D)* (time: 0:00-1:30)
 The flag is made up of multiple ropes that create a cloth
 
-### Cloth Simulation (time: 0:00-1:30)
+### Multi-arm IK (time: 0:00-1:30)
 A cloth is created by connecting rows and columns of ropes. 
 
-### 3D Simulation (time: 0:00-1:30)
+[![Joint Limit Video](https://img.youtube.com/vi/SNveAdVTFxk/0.jpg)](https://www.youtube.com/watch?v=SNveAdVTFxk)
+
+### Joint limits (time: 0:00-1:30)
 The cloth is created using 3D points with 3D positions, velocities, and forces.
 
-### High-quality Rendering (time: 0:00-1:30)
+### User Interaction (time: 0:00-1:30)
 Meshes are used to render both sides of the flag
 
-### Air Drag for Cloth (time: 0:00-1:30)
+### 3D Simulation & Rendering (time: 0:00-1:30)
 The cloth experinces air drag and the simulation has a wind coming off the top of the mountain creating the flapping effect of the flag.
 
-[![Flag Example](https://img.youtube.com/vi/SNveAdVTFxk/0.jpg)](https://www.youtube.com/watch?v=SNveAdVTFxk)
-
-### Realistic Speed
+### Skinned Models
 The flag I created uses 3600 nodes and is simulated as a massive flag. The flag flys similar to the massive flag in the video above.
-
-[![User Interaction](https://img.youtube.com/vi/PUEx_UuE2W0/0.jpg)](https://youtu.be/PUEx_UuE2W0)
-
-### User Interaction (time: 0:00-0:53)
-User can move the sphere with the WASD keys and Space and Control keys to go foreward and backward. The Space key drops the flag and the control key makes the sphere appear. 
 
 ## Part 2
 
 [![Part 2](https://img.youtube.com/vi/Aas1pQ7W5gs/0.jpg)](https://youtu.be/Aas1pQ7W5gs)
 
-### Shallow Water Simulation (time: 0:00-1:53)
+### FABRIK (time: 0:00-1:53)
 I created a Shallow Water simulation that is seen as vertices of a mesh. I created islands and gave the mesh a water-like reflective material.
 
 Difficulties:
