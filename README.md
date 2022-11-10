@@ -22,6 +22,7 @@ Part 1 uses CCD
 - Skinned Models
 
 [![Part 1](https://img.youtube.com/vi/cFDrOaxBpJs/0.jpg)](https://youtu.be/cFDrOaxBpJs)
+* I attempt to dance in the video. The IK is smooth. My dancing is not lol
 
 ### Single-arm IK (at least 2D)* (time: 0:00-1:07)
 Each arm is a 4 joint (5 link) chain that roots at the center of the chest. See part 2's FABRIK video to see each joint/link in motion.
