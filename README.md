@@ -59,7 +59,7 @@ FABRIK was easier to implement. There were no rotations needed for the FABRIK so
 
 No partners we used. 
 
-The simulations were made int the Unity Engine 2021.3.10f1. The UnityEngine and UNity XR packages were used. Models were all from the Unity Asset Store.
+The simulations were made int the Unity Engine 2021.3.10f1. The UnityEngine and Unity XR packages were used. Models were all from the Unity Asset Store.
 
 Art contest submissions:
 ![image](https://user-images.githubusercontent.com/47149695/201179864-cd98da87-9c6d-47f7-9041-a7f8371d83f2.png)
